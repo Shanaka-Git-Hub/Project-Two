@@ -1,0 +1,23 @@
+export const itemList=[
+    {
+        id:'1',
+        name:'jaket',
+        img:'',
+        qty:1,
+        total:250
+    },
+    {
+        id:'2',
+        name:'Kamal',
+        img:'',
+        qty:1,
+        total:250
+    },
+    {
+        id:'3',
+        name:'jaket',
+        img:'',
+        qty:1,
+        total:250
+    }
+]
